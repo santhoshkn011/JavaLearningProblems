@@ -26,7 +26,7 @@ public class AssignmentOperators {
         System.out.println("c <<= 2 = " + c );
         c >>= 2 ;
         System.out.println("c >>= 2 = " + c );
-        c >>= 2 ;
+        c >>= a ;
         System.out.println("c >>= a = " + c );
         c &= a ;
         System.out.println("c &= 2 = " + c );
